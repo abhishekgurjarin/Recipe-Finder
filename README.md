@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhishekboadgurjar/recipe-finder.git
+   git clone https://github.com/abhishekgurjarin/recipe-finder.git
    cd recipe-finder
    ```
 
@@ -88,4 +88,4 @@ Feel free to experiment with the project and make it your own!
 - Icons: [React Icons](https://react-icons.github.io/react-icons/)
 
 #### Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjarin).
